@@ -31,7 +31,7 @@ JAVASCRIPT
 
 
 # Run
-
+npm run build
 
 ### Project Documentation
 For Software:
