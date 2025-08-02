@@ -37,27 +37,26 @@ JAVASCRIPT
 For Software:
 
 # Screenshots
-<img width="3188" height="1202" alt="frame (3)" src="" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/irfanzakhir/plantr/blob/main/Screenshot%202025-08-02%20063732.png" />
 home page where you can select your match or swipe them.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/irfanzakhir/plantr/blob/main/Screenshot%202025-08-02%20063804.png" />
-
+dark mode
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/irfanzakhir/plantr/blob/main/Screenshot%202025-08-02%20063828.png" />
-*Add caption explaining what this shows*
+finding a match
 
 
 
 ### Project Demo
 # Video
 https://github.com/irfanzakhir/plantr/blob/main/Screen%20Recording%202025-08-02%20064020.mp4
-*Explain what the video demonstrates*
+how the site works.
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Irfan Zakhir - designing and programming
+Lemuel M B - editing and uploading
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
