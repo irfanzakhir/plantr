@@ -50,7 +50,7 @@ finding a match
 
 ### Project Demo
 # Video
-https://github.com/irfanzakhir/plantr/blob/main/Screen%20Recording%202025-08-02%20064020.mp4
+https://drive.google.com/file/d/1DH5v2itLaKeBqdqZphmnh621zxKgItGz/view?usp=drive_link
 how the site works.
 
 
